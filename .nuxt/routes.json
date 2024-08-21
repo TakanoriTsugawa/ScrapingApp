@@ -1,0 +1,23 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\CSLT84user\\\\Documents\\\\Program\\\\scraping-app\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_536e8c0e"
+  },
+  {
+    "name": "template",
+    "path": "/template",
+    "component": "C:\\\\Users\\\\CSLT84user\\\\Documents\\\\Program\\\\scraping-app\\\\pages\\\\template.vue",
+    "chunkName": "pages/template",
+    "_name": "_2286516b"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\CSLT84user\\\\Documents\\\\Program\\\\scraping-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_389069b1"
+  }
+]
